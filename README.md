@@ -130,4 +130,13 @@ export PATH=$PATH:$GOBIN
 si algo aqui hay mas guia https://github.com/golang/go/wiki/SettingGOPATH
 https://www.youtube.com/watch?v=fPjcp48dpPM&t=142s
 
+# Paquetes de terceros
+
+go mod init holamundo
+
+esto nos crea un go.mod, que nos ayudan para definir dependencias
+
+go get rsc.io/quote
+
+aqui se agregara el paquete quote
 
