@@ -129,3 +129,35 @@ Finalmente, imprimimos el valor de la variable resultado utilizando la función 
 # Declaracion If - Else
 
 # Bucle For
+
+# Hacer nuestra propia funcion
+
+# Proyecto de la seccion, numero aleatorio de cero a cien
+
+# Resumen
+
+En esta sección del curso de programación en Go, hemos explorado el control de flujo. Hemos cubierto varios temas importantes, que incluyen:
+
+Operadores booleanos: hemos aprendido acerca de los operadores booleanos en Go y cómo utilizarlos para tomar decisiones en nuestro código.
+
+Declaración If-Else: hemos aprendido cómo utilizar la declaración if-else en Go para tomar decisiones en función de las condiciones en nuestro programa.
+
+Declaración Switch: hemos aprendido cómo utilizar la declaración switch en Go para tomar decisiones en función de múltiples condiciones.
+
+Bucle For: hemos aprendido cómo utilizar el bucle for en Go para repetir una sección de código un número determinado de veces.
+
+Uso de funciones: hemos aprendido cómo utilizar funciones en Go y cómo crear nuestras propias funciones personalizadas.
+
+Además, al final de la sección, hemos tenido la oportunidad de aplicar todo lo que hemos aprendido en un proyecto práctico, donde hemos creado un programa que utiliza los conceptos de control de flujo que hemos cubierto.
+
+En general, esta sección ha sido una introducción muy útil al control de flujo en Go, y proporciona una base sólida para continuar aprendiendo y desarrollando habilidades en este lenguaje de programación.
+
+
+
+Materia de esta sección en GitHub y Tambien puedes descargar en PDF.
+
+
+
+Sigue aprendiedo con los siguientes tutoriales sobre esta sección:
+
+https://learn.microsoft.com/es-es/training/modules/go-control-flow/

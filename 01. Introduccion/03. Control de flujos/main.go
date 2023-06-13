@@ -46,10 +46,31 @@ func main() {
 	//en go no es necesario break
 
 	// bucle for
-	var i int
-	for i <= 10 {
+	//var i int
+	for i := 1; i <= 10; i++ {
+		
+		if i == 5 {
+			//break
+			continue //salta a la siguiente iteracion, no se ejecutara el print
+		}
 		fmt.Println(i)
-		i++
 	}
+	saludo := hello("Dariel")
+	fmt.Println(saludo)
+	sum, mul := calc(4, 5)
+	fmt.Println("La suma es: ", sum)
+	fmt.Println("La multi es: ", mul)
 
+}
+// nuestra funcion
+func hello(name string) string {
+	fmt.Println("Holiwis, ", name)
+	return "holiwis, " + name
+}
+
+func calc(a, b int)(sum, mul int) {
+	sum = a+b
+	mul = a*b
+	//return sum, mul
+	return
 }
